@@ -2,7 +2,7 @@
 title: Test 
 tags: [Test, News, New, Update, Status, Every Tag, Lorem ipsum]
 style: border
-color: primary
+color: warning
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
