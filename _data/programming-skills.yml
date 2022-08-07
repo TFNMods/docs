@@ -1,0 +1,11 @@
+- name: DevNite Battle Royale
+  percentage: 45
+  color: danger
+
+- name: DevNite Creative
+  percentage: 80
+  color: primary
+
+- name: DevNite PTC (Protect The World)
+  percentage: 5
+  color: info
