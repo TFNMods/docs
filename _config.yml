@@ -17,12 +17,11 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/projects.html
 
 
 ### Author Info ###
 author:
-  name              : Devnite Team
+  name              : TFNGames Team
   image             : https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png
 # behance           : your_username
 # dribbble          : your_username
@@ -53,7 +52,7 @@ permalink: /news/:title
 collections:
   projects:
     output: true
-    permalink: /docs/:name
+    permalink: /ue/:name
   docs:
     output: true
     permalink: /docs/using-devices/:name
