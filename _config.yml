@@ -1,9 +1,8 @@
 ### Site Settings ###
-title               : TFNGames
-description         : Welcome to TFNGames! 
-                      Accounts are temporarily disabled! Read more about it in the news tab.
+title               : TFNMods
+description         : Welcome to TFNMods!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : TFNGamesOfficial/TFNGamesOfficial.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : TFNMods/docs    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : DevniteCreative/Modeon
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
