@@ -1,11 +1,13 @@
-TitleOne: "Season 1 is here!"
-ImageOne: "https://tfngamesofficial.github.io/devnite/news/season-one-is-here"
-LaunchURLOne: "https://tfngamesofficial.github.io/devnite/news/season-one-is-here"
-
-TitleTwo: "https://google.com/"
-ImageTwo: "https://google.com/"
-LaunchURLTwo: "https://google.com/"
-
-TitleThree: "The new Season Pass is here!"
-ImageThree: "https://cdn2.unrealengine.com/thumbnail-cinematic-1920x1080-fe7e748660c2.jpg"
-LaunchURLThree: "https://google.com/"
+{
+  "TitleOne": "Season 1 is here!",
+  "ImageOne": "https://tfngamesofficial.github.io/devnite/news/season-one-is-here",
+  "LaunchURLOne": "https://tfngamesofficial.github.io/devnite/news/season-one-is-here",
+  
+  "TitleTwo": "https://google.com/",
+  "ImageTwo": "https://google.com/",
+  "LaunchURLTwo": "https://google.com/",
+  
+  "TitleThree": "The new Season Pass is here!",
+  "ImageThree": "https://cdn2.unrealengine.com/thumbnail-cinematic-1920x1080-fe7e748660c2.jpg",
+  "LaunchURLThree": "https://google.com/"
+}
